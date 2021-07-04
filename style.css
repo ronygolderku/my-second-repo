@@ -3,4 +3,12 @@ p{
 }
 h1{
     background-color: olive;
+    text-align: center;
+}
+.love-name{
+    color:salmon;
+}
+.good{
+    text-align: center;
+    border: slateblue;
 }
